@@ -32,7 +32,7 @@ Module Module1
         batText.AppendLine(str10)
 
         File.WriteAllText("..\aa.bat", batText.ToString())
-        MsgBox("11111111")
+        MsgBox("写入bat成功！！")
         Dim psi As New ProcessStartInfo
         psi.FileName = "..\aa.bat"
         psi.Arguments = Environment.CurrentDirectory

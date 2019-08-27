@@ -16,3 +16,14 @@ E:\VB.net\01-VBPro\CMD\CMD\bin\Debug\CMD.xml
 E:\VB.net\01-VBPro\CMD\CMD\obj\x86\Debug\CMD.Form1.resources
 E:\VB.net\01-VBPro\CMD\CMD\obj\x86\Debug\CMD.Resources.resources
 E:\VB.net\01-VBPro\CMD\CMD\obj\x86\Debug\CMD.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\bin\Debug\CMD.exe
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\bin\Debug\CMD.pdb
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\bin\Debug\CMD.xml
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.vbprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.Form1.resources
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.Resources.resources
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.vbproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.exe
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.xml
+C:\Users\Administrator\Source\Repos\CMD-VB.net\CMD\obj\x86\Debug\CMD.pdb
